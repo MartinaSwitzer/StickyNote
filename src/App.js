@@ -30,8 +30,6 @@ function App() {
         )
       
       })}
-      
-     
       <Footer/>
     </div>
   );
